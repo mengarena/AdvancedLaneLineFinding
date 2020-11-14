@@ -1,10 +1,6 @@
 
 # Advance Lane Line Finding
 
-*Author: Rufeng Meng  (mengrufeng@gmail.com)*
-
-*Date:   9/14/2019*
-
 
 In this project, advanced computer vision technologies are applied to find lane lines and identify the drivable lane area ahead.
 The project first calibrates the camera based on the calibration pattern images, then it goes through following steps for each image/video frame for finding lane lines:
